@@ -44,7 +44,7 @@ This project follows the Model–View–Controller (MVC) architecture and is bui
 
 Build Instructions
 
-git clone https://github.com/yourusername/MovieRatingSystem.git
+git clone https://github.com/Aakriti-2334/movie-rating-system
 cd MovieRatingSystem
 mkdir -p build
 cd build
